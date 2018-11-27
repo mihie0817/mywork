@@ -1,0 +1,57 @@
+* {
+    padding: 0;
+    margin: 0;
+    border: 0;
+}
+a {text-decoration: none;}
+li {list-style: none;}
+
+body {
+    overflow-x: hidden;
+}
+#wrap {
+    width: 100%;
+    left: 50%;
+    margin-left: -960px;
+    position: relative;
+}
+#mainNav {
+    position: absolute;
+    top: 22px;
+    right: 386px;
+    z-index: 2;
+}
+#mainNav a {
+}
+#mainNav img {
+    margin-left: 0;
+}
+#page-one {
+    position: absolute;
+    top: 0xp;
+}
+#page-two {
+    position: absolute;
+    top: 1373px;
+}
+#page-three {
+    position: absolute;
+    top: 1589px;
+}
+#page-four {
+    position: absolute;
+    top: 3218px;
+}
+#page-five {
+    position: absolute;
+    top: 4900px;
+}
+#page-six {
+    position: absolute;
+    top: 6706px;
+}
+.gogo {
+    position: absolute;
+    top: 839px;
+    right: 768px;
+}
